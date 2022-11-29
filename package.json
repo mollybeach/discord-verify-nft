@@ -2,7 +2,7 @@
   "name": "client",
   "version": "1.1.0",
   "private": true,
-  "homepage": "https://0xmimiq.github.io/Discord-NFT-Verifier-Client/",
+  "homepage": "https://mollybeach.github.io/discord-verify-nft/",
   "deploy": "gh-pages -d build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
