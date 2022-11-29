@@ -2,14 +2,14 @@ import "./App.css";
 import React, { useState, useEffect } from "react";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import logoImg from "./image/kaiju_logo.png";
+
 
 const verifyApiUrl = "verify.0xmimiq.me"; // Back-end url
 
 function App() {
   const [discordUser, setDiscordUser] = useState({});
   const [discordWillShowUserName, setDiscordUserName] = useState("Invalid");
-  const [discordWillShowUserImg, setDiscordUserImgURL] = useState(logoImg);
+  const [discordWillShowUserImg, setDiscordUserImgURL] = useState("logoImg");
 
   // Get and set discord user info
   useEffect(() => {
