@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/discord-verify-nft/static/css/main.244ff81e.css",
-    "main.js": "/discord-verify-nft/static/js/main.c8888108.js",
+    "main.js": "/discord-verify-nft/static/js/main.6d3e3906.js",
     "static/js/496.5073391a.chunk.js": "/discord-verify-nft/static/js/496.5073391a.chunk.js",
     "static/media/harry-potter.png": "/discord-verify-nft/static/media/harry-potter.d9eacb58dde467228de8.png",
     "static/media/sortinghat.png": "/discord-verify-nft/static/media/sortinghat.e66d4a7ee8e7a9e73a4b.png",
+    "static/media/wand.png": "/discord-verify-nft/static/media/wand.9bfec018ce84cad91a53.png",
     "static/media/hogwarts.png": "/discord-verify-nft/static/media/hogwarts.e41df18eb7c94008ce1c.png",
     "index.html": "/discord-verify-nft/index.html",
     "main.244ff81e.css.map": "/discord-verify-nft/static/css/main.244ff81e.css.map",
-    "main.c8888108.js.map": "/discord-verify-nft/static/js/main.c8888108.js.map",
+    "main.6d3e3906.js.map": "/discord-verify-nft/static/js/main.6d3e3906.js.map",
     "496.5073391a.chunk.js.map": "/discord-verify-nft/static/js/496.5073391a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.244ff81e.css",
-    "static/js/main.c8888108.js"
+    "static/js/main.6d3e3906.js"
   ]
 }
