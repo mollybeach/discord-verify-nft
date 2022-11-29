@@ -2,6 +2,8 @@ import "./App.css";
 import React, { useState, useEffect } from "react";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import titleImg from "./image/hogwarts.png";
+import logoImg from "./image/wand.png";
 
 
 const verifyApiUrl = "verify.0xmimiq.me"; // Back-end url
@@ -9,7 +11,7 @@ const verifyApiUrl = "verify.0xmimiq.me"; // Back-end url
 function App() {
   const [discordUser, setDiscordUser] = useState({});
   const [discordWillShowUserName, setDiscordUserName] = useState("Invalid");
-  const [discordWillShowUserImg, setDiscordUserImgURL] = useState("logoImg");
+  const [discordWillShowUserImg, setDiscordUserImgURL] = useState(logoImg);
 
   // Get and set discord user info
   useEffect(() => {
@@ -242,7 +244,7 @@ function App() {
     <div className="Cronos-Kaiju">
       <div className="Verify-Page-bg">
         <div className="Verify-Page-rain bg-center w-full h-[100vh] flex flex-col gap-20 justify-center items-center">
-          <img className="inline-block" src={""} alt="title" />
+          <img className="inline-block" src={titleImg} alt="title" />
 
           {/*Profile info card*/}
           <div
