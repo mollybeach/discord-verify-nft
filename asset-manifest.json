@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/discord-verify-nft/static/css/main.f64dcc65.css",
+    "main.js": "/discord-verify-nft/static/js/main.b983664b.js",
+    "static/js/496.5073391a.chunk.js": "/discord-verify-nft/static/js/496.5073391a.chunk.js",
+    "static/media/thunder.png": "/discord-verify-nft/static/media/thunder.89141af957ead85bc659.png",
+    "static/media/bg.png": "/discord-verify-nft/static/media/bg.eced377d4b9e8863707b.png",
+    "static/media/rain.png": "/discord-verify-nft/static/media/rain.402ac1f303abf9762d5a.png",
+    "static/media/kaiju_logo.png": "/discord-verify-nft/static/media/kaiju_logo.4ead17548aec8969c4d1.png",
+    "static/media/cronos_kaiju.png": "/discord-verify-nft/static/media/cronos_kaiju.2ebef34353a5e3ea2807.png",
+    "index.html": "/discord-verify-nft/index.html",
+    "main.f64dcc65.css.map": "/discord-verify-nft/static/css/main.f64dcc65.css.map",
+    "main.b983664b.js.map": "/discord-verify-nft/static/js/main.b983664b.js.map",
+    "496.5073391a.chunk.js.map": "/discord-verify-nft/static/js/496.5073391a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f64dcc65.css",
+    "static/js/main.b983664b.js"
+  ]
+}
