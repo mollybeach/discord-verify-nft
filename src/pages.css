@@ -1,12 +1,13 @@
 .Verify-Page-bg {
-  background-image: url("https://webcms.asset.catchplay.com/l/assets/img/visual/TW/WBT-TW-002-A1026/newrelease/1080p.jpg?hash=1659901224");
+ // background-image: url("https://webcms.asset.catchplay.com/l/assets/img/visual/TW/WBT-TW-002-A1026/newrelease/1080p.jpg?hash=1659901224");
   background-repeat: no-repeat;
-  background-size: cover;
+  //background-color: pink;
+ // background-size: cover;
 }
 
 .Verify-Page-rain {
-  background-image: url(rain.png);
-  animation: rain 1s linear infinite;
+ // background-image: url(rain.png);
+  //animation: rain 1s linear infinite;
 }
 
 @keyframes rain {
@@ -23,11 +24,11 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url(thunder.png);
+ // background-image: url(thunder.png);
   background-repeat: no-repeat;
   top: -4rem;
-  transform: rotate(180deg);
-  animation: thunder 5s linear infinite;
+  //transform: rotate(180deg);
+ // animation: thunder 5s linear infinite;
   opacity: 0.6;
 }
 
