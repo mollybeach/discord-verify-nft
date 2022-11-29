@@ -2,7 +2,6 @@ import "./App.css";
 import React, { useState, useEffect } from "react";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import titleImg from "./image/cronos_kaiju.png";
 import logoImg from "./image/kaiju_logo.png";
 
 const verifyApiUrl = "verify.0xmimiq.me"; // Back-end url
@@ -243,7 +242,7 @@ function App() {
     <div className="Cronos-Kaiju">
       <div className="Verify-Page-bg">
         <div className="Verify-Page-rain bg-center w-full h-[100vh] flex flex-col gap-20 justify-center items-center">
-          <img className="inline-block" src={titleImg} alt="title" />
+          <img className="inline-block" src={""} alt="title" />
 
           {/*Profile info card*/}
           <div
